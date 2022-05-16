@@ -1,0 +1,19 @@
+﻿body {
+    margin:0;
+    padding:0;
+    background-color:midnightblue;
+    color:white;
+}
+.header{
+    height:150px;
+    background-color:midnightblue;
+    margin:0;
+    padding:0;
+    top:0;
+}
+.header h1{
+    text-align:center;
+    line-height:150px;
+    color:#fff;
+    font-family:sans-serif;
+}
